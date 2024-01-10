@@ -1,1 +1,1 @@
-# CodeClause_Note-Taking_Application
+# Note-Taking_Application
