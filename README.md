@@ -47,5 +47,21 @@ Once you have the application open in your web browser, you can start taking not
 7. The notes you create or modify will be automatically saved to the browser's Local Storage, ensuring that they persist even if you close the browser or refresh the page.
 
 
+
+
+
+
+<img width="1280" alt="Screenshot 2023-12-07 at 1 08 25 AM" src="https://github.com/khushi-kumari22/Note-Taking_Application/assets/119166889/a52fc857-e490-413c-8837-f771d185a128">
+
+
+
+
+
+
+
+ Here, You can see the Updated Notes:
+ 
+<img width="1280" alt="Screenshot 2023-12-07 at 1 28 58 AM" src="https://github.com/khushi-kumari22/Note-Taking_Application/assets/119166889/9ec23583-2790-4916-9b22-3106e46246c7">
+
  
 
