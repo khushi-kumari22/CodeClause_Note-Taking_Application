@@ -4,10 +4,15 @@ This is a simple note-taking application built using HTML, CSS and JavaScript. T
 
 Features:
  🚀 Create new notes with a title and content.
+ 
  🚀 Edit existing notes.
+ 
  ❌ Delete unwanted notes.
+ 
  💾 Notes are automatically saved to the Local Storage.
+ 
  💾 Notes persist across browser sessions.
+ 
  
  Getting Started 
 
