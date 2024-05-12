@@ -38,12 +38,12 @@ Usages:
 
 Once you have the application open in your web browser, you can start taking notes using the following steps:
 
-1. To create a new note, click on the "➕ Add Note" button.
-2. Enter a title and content for the note in the provided input fields.
-3. Move your mouse away from the input fields or click elsewhere on the page. The note will be automatically saved.
-4. To edit a note, double-click on the note in the list. The note's title and content will be displayed in the input fields.
-5. Modify the title or content as desired, and then move your mouse away from the input fields or click elsewhere on the page. The note will be automatically saved.
-6. To delete a note, double-click on the note in the list. The note will be deleted from the list.
+1. To create a new note, click on the "➕ Add New Note" button.
+2. Enter a title and description for the note in the provided input fields.
+3. Move your mouse away from the input fields or click on the "Add Note". The note will be automatically saved.
+4. To edit a note, click on the dots(...) in the list. The note's title and content will be displayed in the input fields.
+5. Modify the title or description as desired, and then move your mouse away from the input fields and click on the "Update Note". The note will be automatically saved.
+6. To delete a note, again click on the dots(...) in the list then click on "Delete". The note will be deleted from the list.
 7. The notes you create or modify will be automatically saved to the browser's Local Storage, ensuring that they persist even if you close the browser or refresh the page.
 
 
